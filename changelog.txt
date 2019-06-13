@@ -1,0 +1,2 @@
+2019-06-07 v1.0 initial release
+2019-06-13 v1.1 added hidden magical "O" = white square character
